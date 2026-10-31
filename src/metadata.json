@@ -1,0 +1,26 @@
+{
+    "KPlugin": {
+        "Name": "IconTray",
+        "Name[zh_CN]": "IconTray 图标托盘",
+        "Description": "System tray with persistent ordering, groups and per-icon sizing",
+        "Description[zh_CN]": "支持持久排序、分组和单独缩放的系统托盘",
+        "Icon": "preferences-desktop-notification",
+        "Category": "Windows and Tasks",
+        "License": "GPL-2.0-or-later",
+        "Version": "0.1.0",
+        "Authors": [
+            {
+                "Name": "IconTray contributors"
+            },
+            {
+                "Name": "KDE System Tray contributors"
+            }
+        ],
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "desktop"
+        ]
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-ContainmentType": "CustomEmbedded"
+}

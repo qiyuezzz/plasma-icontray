@@ -1,0 +1,22 @@
+/*
+    SPDX-FileCopyrightText: 2013 Sebastian Kügler <sebas@kde.org>
+
+    SPDX-License-Identifier: GPL-2.0-or-later
+*/
+
+import QtQuick
+
+import org.kde.plasma.configuration
+
+ConfigModel {
+    ConfigCategory {
+         name: i18nd("icontray", "Order and Appearance")
+         icon: "preferences-desktop-icons"
+         source: "ConfigAppearance.qml"
+    }
+    ConfigCategory {
+         name: i18nd("plasma_applet_org.kde.plasma.systemtray", "General")
+         icon: "plasma"
+         source: "ConfigGeneral.qml"
+    }
+}

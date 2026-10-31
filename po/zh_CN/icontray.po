@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Order and Appearance"
+msgstr "排序与外观"
+
+msgid "Applications"
+msgstr "应用图标"
+
+msgid "Monochrome"
+msgstr "线条图标"
+
+msgid "System"
+msgstr "系统图标"
+
+msgid "Drag the handle or use the arrows to reorder. Group assignments are manual; icon style is not detected automatically. Changes take effect when you click Apply."
+msgstr "拖动左侧手柄或使用上下按钮调整顺序。请手动指定分组，组件不会自动识别图标风格。点击“应用”后生效。"
+
+msgid "Icon size (logical pixels):"
+msgstr "图标尺寸（逻辑像素）："
+
+msgid "Keep a single row or column"
+msgstr "保持单行或单列"
+
+msgid "Group application and system icons"
+msgstr "按应用图标和系统图标分组"
+
+msgid "Panel scaling in General overrides the fixed size. Icon replacements apply to application tray icons; attention icons keep their original appearance."
+msgstr "“常规”中的随面板缩放选项优先于固定尺寸。替代图标用于应用托盘图标；提醒状态图标保留原样。"
+
+msgid "Reset order and individual adjustments"
+msgstr "重置排序和单独调整"
+
+msgid "No tray entries available."
+msgstr "暂无托盘项目。"
+
+msgid "Drag to reorder %1"
+msgstr "拖动以调整 %1 的顺序"
+
+msgid "Group for %1"
+msgstr "%1 的分组"
+
+msgid "Move %1 up"
+msgstr "上移 %1"
+
+msgid "Move %1 down"
+msgstr "下移 %1"
+
+msgid "Scale:"
+msgstr "缩放："
+
+msgid "Scale percent for %1"
+msgstr "%1 的缩放百分比"
+
+msgid "Theme icon name or file:///absolute/path.svg"
+msgstr "图标主题名称或 file:///绝对路径.svg"
+
+msgid "Replacement icon for %1"
+msgstr "%1 的替代图标"
+
+msgid "Reset adjustments for %1"
+msgstr "重置 %1 的调整"
